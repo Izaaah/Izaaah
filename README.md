@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Informatics Engineering student
+I'm Informatics Engineering student (final year)
 
 
 ## 🌐 Socials:
