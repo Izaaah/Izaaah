@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Informatics Engineering student (final year)
+I'm Informatics Engineering student (final year), I have an interest in web and mobile development
 
 
 ## 🌐 Socials:
